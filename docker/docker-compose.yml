@@ -1,0 +1,12 @@
+version: '3'
+
+services:   
+  # SPRING BOOT - fibospiralmatrix
+  fibospiralmatrix:
+    container_name: fibospiralmatrix
+    build:
+        context: Dockerfiles
+        dockerfile: Dockerfile
+    image: fibospiralmatrix:latest
+    ports:
+        - 9000:8080
