@@ -71,3 +71,15 @@ Docker
 * When considering the deployment of the application in the cloud, evaluate the requirements of the application with the existing options (AWS, AZURE, G.CLOUD), taking into account computing resources, security, storage, support, costs.
 
 # SCREENSHOTS
+
+![2022-04-15 12_12_31-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607725-6910d2b8-aba1-4295-94a6-f28144853c65.png)
+
+![2022-04-15 12_12_44-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607737-d606b288-5dba-4d1e-b388-44591034811b.png)
+
+![2022-04-15 12_13_10-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607747-bd440b45-05fb-4636-9670-72edfe01756b.png)
+
+![2022-04-15 12_13_33-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607762-6eaf8d50-23b3-49c8-8590-9771b643e0bc.png)
+
+![2022-04-15 12_13_45-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607830-9d360ee4-5951-4663-bfe1-3f717ea4683f.png)
+
+
