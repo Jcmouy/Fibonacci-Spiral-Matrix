@@ -72,6 +72,8 @@ Docker
 
 # ARCHITECTURE DIAGRAM
 
+![Frontend Angular](https://user-images.githubusercontent.com/10815551/163631185-76a6806a-d4b9-4906-8112-f1e118f64295.png)
+
 ![Backend Java Spring Boot](https://user-images.githubusercontent.com/10815551/163629125-dec163b9-7779-4ca4-8961-f6486bda51bd.png)
 
 # FIBONACCI SPIRAL MATRIX SEQUENCE DIAGRAM
