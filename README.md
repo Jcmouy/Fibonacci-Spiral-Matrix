@@ -70,4 +70,25 @@ Docker
 
 * When considering the deployment of the application in the cloud, evaluate the requirements of the application with the existing options (AWS, AZURE, G.CLOUD), taking into account computing resources, security, storage, support, costs.
 
-# SCREENSHOTS
+# ARCHITECTURE DIAGRAM
+
+![Frontend Angular](https://user-images.githubusercontent.com/10815551/163680428-2580b27c-6670-4cc2-a832-bd2d793b11c2.png)
+
+![Backend Java Spring Boot](https://user-images.githubusercontent.com/10815551/163680434-0366dde5-f635-4084-8c63-43139a886d30.png)
+
+# FIBONACCI SPIRAL MATRIX SEQUENCE DIAGRAM
+
+![Fibonacci Spiral Matrix Sequence Diagram](https://user-images.githubusercontent.com/10815551/163624215-9bffc38e-6799-4fae-bf68-ea336e9bb9c2.png)
+
+# CAPTURE
+
+![welcome](https://user-images.githubusercontent.com/10815551/163720975-2c6ab92b-8baa-4bd4-8943-f0d0c4f85b3d.gif)
+
+![register](https://user-images.githubusercontent.com/10815551/163720994-6fb204bf-1520-47a0-a38d-9f2e802e04bf.gif)
+
+![login](https://user-images.githubusercontent.com/10815551/163721001-efe2d3b4-2ad6-4c44-9608-c84ccc8766c7.gif)
+
+![spiral](https://user-images.githubusercontent.com/10815551/163721004-3babc53e-996e-4edb-9cf9-41ebf186a0cd.gif)
+
+
+
