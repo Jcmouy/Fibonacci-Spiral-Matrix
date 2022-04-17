@@ -82,6 +82,8 @@ Docker
 
 # SCREENSHOTS
 
+![welcome](https://user-images.githubusercontent.com/10815551/163720341-ea94827b-ed4f-4e9b-9357-381fad6ef1b8.gif)
+
 ![2022-04-15 12_12_31-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607725-6910d2b8-aba1-4295-94a6-f28144853c65.png)
 
 ![2022-04-15 12_12_44-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607737-d606b288-5dba-4d1e-b388-44591034811b.png)
