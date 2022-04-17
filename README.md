@@ -80,18 +80,15 @@ Docker
 
 ![Fibonacci Spiral Matrix Sequence Diagram](https://user-images.githubusercontent.com/10815551/163624215-9bffc38e-6799-4fae-bf68-ea336e9bb9c2.png)
 
-# SCREENSHOTS
+# CAPTURE
 
-![welcome](https://user-images.githubusercontent.com/10815551/163720341-ea94827b-ed4f-4e9b-9357-381fad6ef1b8.gif)
+![welcome](https://user-images.githubusercontent.com/10815551/163720975-2c6ab92b-8baa-4bd4-8943-f0d0c4f85b3d.gif)
 
-![2022-04-15 12_12_31-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607725-6910d2b8-aba1-4295-94a6-f28144853c65.png)
+![register](https://user-images.githubusercontent.com/10815551/163720994-6fb204bf-1520-47a0-a38d-9f2e802e04bf.gif)
 
-![2022-04-15 12_12_44-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607737-d606b288-5dba-4d1e-b388-44591034811b.png)
+![login](https://user-images.githubusercontent.com/10815551/163721001-efe2d3b4-2ad6-4c44-9608-c84ccc8766c7.gif)
 
-![2022-04-15 12_13_10-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607747-bd440b45-05fb-4636-9670-72edfe01756b.png)
+![spiral](https://user-images.githubusercontent.com/10815551/163721004-3babc53e-996e-4edb-9cf9-41ebf186a0cd.gif)
 
-![2022-04-15 12_13_33-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607762-6eaf8d50-23b3-49c8-8590-9771b643e0bc.png)
-
-![2022-04-15 12_13_45-AngularNodejsExample](https://user-images.githubusercontent.com/10815551/163607830-9d360ee4-5951-4663-bfe1-3f717ea4683f.png)
 
 
