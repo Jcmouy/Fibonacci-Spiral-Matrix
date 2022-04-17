@@ -74,7 +74,7 @@ Docker
 
 ![Frontend Angular](https://user-images.githubusercontent.com/10815551/163680428-2580b27c-6670-4cc2-a832-bd2d793b11c2.png)
 
-![Backend Java Spring Boot](https://user-images.githubusercontent.com/10815551/163680434-0366dde5-f635-4084-8c63-43139a886d30.png)
+![Backend Java Spring Boot](https://user-images.githubusercontent.com/10815551/163735739-9bbe2971-e86b-456a-bf55-bd2a5b801b4d.png)
 
 # FIBONACCI SPIRAL MATRIX SEQUENCE DIAGRAM
 
